@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+    footer .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer .all-rights {
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,22 @@
+header {
+    max-width: 100%;
+    padding: 130px 0;
+    margin: 0 auto 32px;
+    background-image: url(../../images/photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+ 
+
+
+
+header h1 {
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+    font-family: var(--font-family);
+    text-align: center;
+}

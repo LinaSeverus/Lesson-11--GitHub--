@@ -1,0 +1,10 @@
+.container {
+    max-width: 930px;
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
