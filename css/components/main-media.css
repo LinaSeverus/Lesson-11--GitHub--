@@ -1,0 +1,27 @@
+@media (max-width: 550px) {
+    h2 {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .short-version h3 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
+
+@media (max-width: 420px) {
+    h2 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .short-version h3 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .short-version-text {
+        margin-bottom: 40px;
+    }
+}
